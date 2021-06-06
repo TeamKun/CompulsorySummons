@@ -1,0 +1,11 @@
+name: CompulsorySummons
+version: 1.0-SNAPSHOT
+main: net.kunmc.lab.compulsorysummons.CompulsorySummonsPlugin
+api-version: 1.16
+author: stcYps
+website: https://github.com/TeamKun/CompulsorySummons
+commands:
+  summons:
+    description: CompulsorySummonsPlugin Main Command
+    usage: /summons <引数>
+    permission: op
