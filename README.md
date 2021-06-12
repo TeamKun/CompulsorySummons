@@ -6,7 +6,7 @@
 - PaperMC 1.16.5
 
 ## コマンド一覧
-- compulsorySummons
+- compulsorysummons
     - battleRoyalMode  
       バトルロイヤルモードを開始する
     - survivalMode  
