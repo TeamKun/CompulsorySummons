@@ -78,7 +78,7 @@ class ModeCommand {
         )
         sender.sendMessage(
             "" + ChatColor.RED + "[注意]全プレイヤーから効果を剥奪しました\n" +
-            "" + ChatColor.RED + "/summons give <プレイヤー名> を使用して効果を付与してください"
+            "" + ChatColor.RED + "/compulsorysummons give <プレイヤー名> を使用して効果を付与してください"
         )
     }
 

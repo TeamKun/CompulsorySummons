@@ -1,5 +1,5 @@
 name: CompulsorySummons
-version: 1.1
+version: 1.2
 main: net.kunmc.lab.compulsorysummons.CompulsorySummonsPlugin
 api-version: 1.16
 author: stcYps
